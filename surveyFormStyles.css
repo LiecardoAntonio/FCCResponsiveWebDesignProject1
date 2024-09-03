@@ -1,0 +1,50 @@
+body {
+  background-image: url(https://cdn3.f-cdn.com/contestentries/1489974/18545046/5cba2aba229c4_thumb900.jpg);
+  color: white;
+  
+}
+
+label {
+  display: block;
+}
+
+input {
+  min-width: 180px;
+}
+
+#name, #email, #number, #dropdown, #insight, #submit{
+  display: block;
+  min-width: 100%;
+  margin: 5px 0 10px 0;;
+}
+
+.radio-label {
+  margin: 0
+}
+
+.inline {
+  vertical-align: middle;
+  margin: 0 0.5em 0 0;
+  min-width: unset;
+}
+
+#survey-form {
+  border: 1px solid white;
+  width: 60vw;
+  max-width: 500px;
+  min-width: 300px;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+#title {
+  text-align: center;
+}
+
+#description {
+  text-align: center;
+}
+
+#submit {
+  display: block;
+}
